@@ -1,6 +1,7 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 <h3>Name: Akshara K </h3>
 <h3>Register Number: 212225040016 </h3>
+<h3>Date : 23.11.2026 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
